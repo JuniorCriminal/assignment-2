@@ -49,10 +49,9 @@ ___
 
 ## 🧠 Concepts Used
 ___
-- `input()` for user interaction
-- String concatenation
-- Print formatting
-- Basic arithmetic operations
-- basic `for loop`
+- in task 1 1`input()` for user interaction.
+- Print formatting.
+- basic `for loop`.
 
 ___
+
