@@ -49,9 +49,10 @@ ___
 
 ## 🧠 Concepts Used
 ___
-- in task 1 1`input()` for user interaction.
+- in task1`input()` for user interaction.
 - Print formatting.
 - basic `for loop`.
 
 ___
+
 
