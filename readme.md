@@ -4,8 +4,8 @@
 
 ## 📌 Task List
 ___
-1. [Even or Odd Checker](#-task-1---arithmetic-operations)
-2. [Sum of Numbers from 1 to 50](#-task-2---greeting-by-full-name)
+1. [Even or Odd Checker](#-task-1---Even-or-Odd-Checker)
+2. [Sum of Numbers from 1 to 50](#-task-2---Sum-of-Numbers-from-1-to-50)
 
 ---
 
@@ -54,4 +54,5 @@ ___
 - Print formatting
 - Basic arithmetic operations
 - basic `for loop`
+
 ___
